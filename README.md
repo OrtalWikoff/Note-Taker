@@ -11,7 +11,7 @@ https://github.com/OrtalWikoff/Note-Taker/tree/main
 
 Here is a screenshot of the application:
 
-<img width="500" alt="Screen Shot 2022-07-19 at 11 43 10 AM" src="https://user-images.githubusercontent.com/100814403/179792461-0dea30d8-17aa-4444-ba70-3884a0434fd6.png">
+<img width="1000" alt="Screen Shot 2022-07-19 at 11 43 10 AM" src="https://user-images.githubusercontent.com/100814403/179792461-0dea30d8-17aa-4444-ba70-3884a0434fd6.png">
 
 
 
